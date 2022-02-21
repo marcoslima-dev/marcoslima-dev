@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando JS 
+- 🔭 Especializado em front-end (atualmente sem emprego)
+- 🌱 19 anos
 - 📫 Contato: marcoslima0511@outlook.com
 
 
