@@ -12,9 +12,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoslima-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslima-dev&layout=compact&langs_count=7&theme=dark"/>
 </div> 
-   <br> <br>
+   <br>
   <div style="display: inline_block"><br>
     <h1>Tecnologias</h1>
+    <h5>Algumas das tecnologias que eu mais uso</h5>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
